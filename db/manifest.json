@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "format": "tcr2-f16-gzip",
+  "n_shards": 4,
+  "n_faces": 16789,
+  "n_total": 16792,
+  "shards": [
+    "shard_001.bin",
+    "shard_002.bin",
+    "shard_003.bin",
+    "shard_004.bin"
+  ],
+  "generated": "2026-05-20T08:38:39Z"
+}
